@@ -14,7 +14,7 @@ members = [
     "aptos-move/e2e-tests-replay",
     "aptos-move/e2e-testsuite",
     "aptos-move/framework",
-    "aptos-move/framework/cached-packages",
+    "aptos-move/framework/cached-packasges",
     "aptos-move/genesis-viewer",
     "aptos-move/move-deps",
     "aptos-move/move-examples",
