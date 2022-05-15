@@ -33,7 +33,7 @@ members = [
     "config/seed-peer-generator",
     "consensus",
     "consensus/consensus-types",
-    "consensus/safety-rules",
+    "consensus/safety-rules",ad
     "crates/aptos",
     "crates/aptos-bitvec",
     "crates/aptos-crypto",
