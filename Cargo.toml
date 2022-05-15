@@ -24,7 +24,7 @@ members = [
     "aptos-move/transaction-replay",
     "aptos-move/vm-genesis",
     "aptos-move/writeset-transaction-generator",
-    "aptos-node",
+    "aptos-node",dasd
     "config",
     "config/global-constants",
     "config/management",
