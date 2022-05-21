@@ -1,7 +1,7 @@
 ---
 codecov:
   require_ci_to_pass: true
-
+nid
 ignore:
   - testsuite/*
   - x/*
